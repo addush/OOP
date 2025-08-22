@@ -1,6 +1,8 @@
 # OOP
 Python program that covers both activities with classes, constructors, inheritance, and polymorphism:
+
 Explanation:
+
 Vehicle is the base class with attributes and an empty move() method.
 
 Car, Plane, and Boat inherit from Vehicle and each implement their own version of move().
